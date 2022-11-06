@@ -28,17 +28,30 @@ This legend defines all the symbols that are used throughout our diagrams.
 
 ![Registration Scenario](./../assets/scenario-01.jpg)
 
+#### ADR Links
+- [01 - Electronics goods only](./adr/01-electronic-goods.md)
+- [02 - QR codes for non-connected local businesses](./adr/02-business-qr-codes.md)
+
 ### Virtual Handshake
 
 ![Virtual Handshake Scenario](./../assets/scenario-02.jpg)
+
+#### ADR Links
+- [04 - Temporary chat for coordination](./adr/04-chats.md)
 
 ### Interaction
 
 ![Interactive Scenario](./../assets/scenario-03.jpg)
 
+#### ADR Links
+- [04 - Temporary chat for coordination](./adr/04-chats.md)
+
 ### Redeem Points
 
 ![Redeem Points Scenario](./../assets/scenario-04.jpg)
+
+#### ADR Links
+- [02 - QR codes for non-connected local businesses](./adr/02-business-qr-codes.md)
 
 ### Events
 
@@ -47,6 +60,9 @@ This legend defines all the symbols that are used throughout our diagrams.
 ### Location-less Interaction
 
 ![Locationless Interaction Scenario](./../assets/scenario-06.jpg)
+
+#### ADR Links
+- [06 - In-person interaction without location](./adr/06-interaction-no-location.md)
 
 ### Administrator
 
