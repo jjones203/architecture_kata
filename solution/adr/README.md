@@ -5,3 +5,4 @@
 - [Virtual interactions only if no location](./03-virtual-no-location.md)
 - [Temporary chat for coordination](./04-chats.md)
 - [Limited functionality via web](./05-limited-web-functionality.md)
+- [In-person interaction without location](./06-interaction-no-location.md)
