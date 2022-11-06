@@ -24,30 +24,30 @@ This legend defines all the symbols that are used throughout our diagrams.
 
 ![Legend](./../assets/scenario-legend.jpg)
 
-### Registration - 01
+### Registration
 
 ![Registration Scenario](./../assets/scenario-01.jpg)
 
-### Virtual Handshake - 02
+### Virtual Handshake
 
 ![Virtual Handshake Scenario](./../assets/scenario-02.jpg)
 
-### Interaction - 03
+### Interaction
 
 ![Interactive Scenario](./../assets/scenario-03.jpg)
 
-### Redeem Points - 04
+### Redeem Points
 
 ![Redeem Points Scenario](./../assets/scenario-04.jpg)
 
-### Events - 05
+### Events
 
 ![Events Scenario](./../assets/scenario-05.jpg)
 
-### Location-less Interaction - 06
+### Location-less Interaction
 
 ![Locationless Interaction Scenario](./../assets/scenario-06.jpg)
 
-### Administrator - 07
+### Administrator
 
 ![Adminitrator Scenario](./../assets/scenario-07.jpg)
