@@ -26,3 +26,4 @@
 - [The Marmots Entry](https://github.com/TheMarmots/ArchKatas2022)
 - [Event-Driven Architecture](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch02.html)
 - [Comparing Architecture Characteristics](https://learning.oreilly.com/library/view/microservices-vs-service-oriented/9781491975657/ch03.html)
+- [Event-Driven Architecture Style](https://learning.oreilly.com/library/view/fundamentals-of-software/9781492043447/ch14.html)
