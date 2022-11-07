@@ -7,7 +7,7 @@ As stated in the [requirements doc](https://docs.google.com/document/d/10o-4eEzF
 - Hey, Blue! administrators to view platform usage statistics
 
 # Architecture Characteristics
-Based on our requirements analysis, we have prioritized these architecture characteristics:
+Based on our [requirements analysis](./requirements_analysis.md), we have prioritized these architecture characteristics:
 1) Availability
 2) Responsiveness
 3) Workflow
