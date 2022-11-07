@@ -16,4 +16,4 @@ We propose to remove the ability to have in-person connection between a civilian
 - Lower barrier of entry for users
 
 ### Cons
-- Users cannot use the web browser to initiate in-person interac
+- Users cannot use the web browser to initiate in-person interactions
