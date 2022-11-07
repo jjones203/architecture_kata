@@ -1,13 +1,13 @@
 # Architecture Analysis
 
-## Non-Functional Properties
-Here we map technical requirements to non-functional requirements, which are ordered by importance. This analysis takes the following format:
+## Architecture Characteristics
+Here we map technical requirements to associated architecture characteristics, which are ordered by importance. This analysis takes the following format:
 
 *Business requirement*
 
 - Technical capability required of platform
 
-  **Non-functional requirement of platform**
+  **Architecture Characteristic**
 
 ---
 
