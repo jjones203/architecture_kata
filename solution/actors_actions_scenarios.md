@@ -59,6 +59,8 @@ The TBD process off the `Yes` branch of the `Rewards?` decision is intentional, 
 
 ![Events Scenario](./../assets/scenario-05.jpg)
 
+This scenario is for step 7 of the police officer process, outlined in the [Hey, Blue! app requirements document](https://docs.google.com/document/d/10o-4eEzFo005pqDt_ORCztzaQCQ_9FNWYrxFasou3Eo).
+
 ### Location-less Interaction
 
 ![Locationless Interaction Scenario](./../assets/scenario-06.jpg)
