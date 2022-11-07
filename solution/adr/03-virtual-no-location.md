@@ -4,7 +4,7 @@
 Accepted
 
 ## Context
-There will be instances where users will be using the Hey, Blue! platform from their web browser, either on their phone or from a computer. This should not prevent a civilian from interacting with a police officer that is online and available to virtually connect, when within the same ZIP code.
+There will be instances where users will be using the Hey, Blue! platform from their web browser, either on their phone or from a computer. This should not prevent users from virtually connecting, when within the same ZIP code.
 
 _This ADR is related to [05 - Limiting Application Functionality on the Web](./05-limited-web-functionality.md)._
 
@@ -14,5 +14,5 @@ The Hey, Blue! platform will allow for such interaction to again limit the barri
 ## Consequences
 
 ### Pros
-- Remove another friction point for a police officer interaction
-- Lower barrier of entry for firt time users
+- Remove another friction point for interactions
+- Lower barrier of entry for users
