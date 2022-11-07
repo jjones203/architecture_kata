@@ -13,7 +13,7 @@ Here we map technical requirements to non-functional requirements, which are ord
 - The platform must track users' availability and locations. 
 - The platform must enable synchronous communication so users can arrange to meet in-person or connect virtually.
 
-  **(1) Availability** - The platform must allow users to connect with each other at any time of day or night. Frequent outages could discourage use of the platform and prevent Hey, Blue! from building a user base. We will aim for 99% uptime.
+  **(1) Availability** - The platform must allow users to connect with each other at any time of day or night. Frequent outages could discourage use of the platform and prevent Hey, Blue! from building a user base. We will aim for 99.9% uptime.
 
   **(2) Responsiveness** - The platform must handle requests quickly enough to facilitate chats between users. We will aim for most typical user requests to take 0.1-0.2 milliseconds from the user initiating the request to the app responding to the request, with an outside limit of 1 second for more complex transactions. 
 
