@@ -1,4 +1,4 @@
-# Architectural Decision Record's (ADRs)
+# Architectural Decision Records (ADRs)
 
 - [Limiting Storefront to Electronic Goods and Online Rebates](./01-electronic-goods.md)
 - [Using QR Codes For Local Businesses](./02-business-qr-codes.md)
