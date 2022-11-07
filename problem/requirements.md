@@ -6,3 +6,12 @@ As stated in the [requirements doc](https://docs.google.com/document/d/10o-4eEzF
 - charities to exchange donated points for goods, services, and discounts
 - Hey, Blue! administrators to view platform usage statistics
 
+# Architecture Characteristics
+Based on our requirements analysis, we have prioritized these architecture characteristics:
+1) Availability
+2) Responsiveness
+3) Workflow
+4) Scalability
+5) Concurrency
+6) Data Integrity
+7) Interoperability
