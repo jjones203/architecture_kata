@@ -1,6 +1,6 @@
 # Architecture Analysis
 
-## Architecture Characteristics
+## Desired Architecture Characteristics
 Here we map technical requirements to associated architecture characteristics, which are ordered by importance. This analysis takes the following format:
 
 *Business requirement*
