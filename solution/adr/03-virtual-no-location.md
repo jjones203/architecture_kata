@@ -4,15 +4,16 @@
 Accepted
 
 ## Context
-There will be instances where users will be using the Hey, Blue! platform from their web browser, either on their phone or from a computer. This should not prevent users from virtually connecting, when within the same ZIP code.
-
-_This ADR is related to [05 - Limiting Application Functionality on the Web](./05-limited-web-functionality.md)._
+Some users may access the Hey, Blue! platform from their web browser, either on their phone or from a computer. This should not prevent users from virtually connecting, when within the same ZIP code. However, the precision of a web browser's location API is limited compared to the location data from a native application for a mobile device.
 
 ## Decision
-The Hey, Blue! platform will allow for such interaction to again limit the barrier to entry and empower users to interact with community police officer, even if only to exchange a few words and have a virtual handshake.
+We propose to remove the ability to have in-person connection between a civilian and a police office, if any or both of the users are not using the mobile app with location tracking. The data available to the web browser API is too inaccurate to validate the near proximity between two individuals, especially if a user is not allowing location tracking from their browser. The Hey, Blue! platform will allow for virtual interaction between two users who are online and have the same home zip code.
 
 ## Consequences
 
 ### Pros
 - Remove another friction point for interactions
 - Lower barrier of entry for users
+
+### Cons
+- Users cannot use the web browser to initiate in-person interac
