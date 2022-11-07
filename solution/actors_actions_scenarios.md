@@ -29,29 +29,29 @@ This legend defines all the symbols that are used throughout our diagrams.
 ![Registration Scenario](./../assets/scenario-01.jpg)
 
 #### ADR Links
-- [01 - Electronics goods only](./adr/01-electronic-goods.md)
-- [02 - QR codes for non-connected local businesses](./adr/02-business-qr-codes.md)
+- [01 - Limiting Storefront to Electronic Goods and Online Rebates](./adr/01-electronic-goods.md)
+- [02 - Using QR Codes For Local Businesses](./adr/02-business-qr-codes.md)
 
 ### Virtual Handshake
 
 ![Virtual Handshake Scenario](./../assets/scenario-02.jpg)
 
 #### ADR Links
-- [04 - Temporary chat for coordination](./adr/04-chats.md)
+- [04 - Including a Temporary Chat System for Interaction Coordination](./adr/04-chats.md)
 
-### Interaction
+### In-person Interaction
 
 ![Interactive Scenario](./../assets/scenario-03.jpg)
 
 #### ADR Links
-- [04 - Temporary chat for coordination](./adr/04-chats.md)
+- [04 - Including a Temporary Chat System for Interaction Coordination](./adr/04-chats.md)
 
 ### Redeem Points
 
 ![Redeem Points Scenario](./../assets/scenario-04.jpg)
 
 #### ADR Links
-- [02 - QR codes for non-connected local businesses](./adr/02-business-qr-codes.md)
+- [02 - Using QR Codes For Local Businesses](./adr/02-business-qr-codes.md)
 
 ### Events
 
@@ -62,7 +62,7 @@ This legend defines all the symbols that are used throughout our diagrams.
 ![Locationless Interaction Scenario](./../assets/scenario-06.jpg)
 
 #### ADR Links
-- [06 - In-person interaction without location](./adr/06-interaction-no-location.md)
+- [06 - Using QR Codes for In-Person Interactions Without Location Tracking](./adr/06-interaction-no-location.md)
 
 ### Administrator
 
