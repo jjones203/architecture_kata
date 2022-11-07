@@ -1,8 +1,9 @@
 # The Black Cat Manifestation
 
-## About Us
+## Members
 
-Hi, this is us!
+- Jessica Jones 🐈‍⬛
+- Sylvain Bernard 🐈‍⬛
 
 ## The Problem
 
