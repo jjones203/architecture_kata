@@ -50,6 +50,8 @@ This legend defines all the symbols that are used throughout our diagrams.
 
 ![Redeem Points Scenario](./../assets/scenario-04.jpg)
 
+The TBD process off the `Yes` branch of the `Rewards?` decision is intentional, as for the first iteration of the Hey, Blue! platform, it will not fully integrate with an external business's rewards program. In addition to the technical complexity, there will need to be a partnership created between the two platforms. After the initial and successful launch of Hey, Blue!, the platform will have better leverage to entice these businesses to participate.
+
 #### ADR Links
 - [02 - Using QR Codes For Local Businesses](./adr/02-business-qr-codes.md)
 
