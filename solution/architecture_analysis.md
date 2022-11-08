@@ -50,3 +50,10 @@ Here we map technical requirements to associated architecture characteristics, w
 - The platform must be capable of sending requests to external API's (e.g., posting 10 points to the Subway MyWay account associated with a Hey, Blue! user).
 
   **(7) Interoperability** - Although the intial iteration of the Hey, Blue! platform will not include this feature, the architecture should facilitate its future addition.
+
+
+## Architecture Style
+
+We evaluated potential architecture styles in light of the analysis above. The architecture styles worksheet showed event-driven architectures exhibit several of the characteristics most important for the Hey, Blue! platform.
+
+![architecture worksheet with the performance, scalability, and workflow characteristics and event-driven style selected](/assets/arch_worksheet_completed.png)
