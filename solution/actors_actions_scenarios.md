@@ -1,6 +1,6 @@
 # Actors, Actions and Significant Scenarios
 
-The following identifies the significant actors, actions and key scenarios that will inform the architecture of the core Hey, Blue! application. The enumeration of important user stories is useful to gain a overall sense for what needs to be provided by the service. Each significant scenario also points to the related technical capabilities in the proposed architecture for the minimum viable product.
+The following identifies the significant actors, actions and key scenarios that will inform the architecture of the Hey, Blue! application. The enumeration of important user stories is useful to gain a overall sense for what needs to be provided by the service. Each significant scenario also points to the related technical capabilities in the proposed architecture.
 
 ## Actors & Actions
 
@@ -8,11 +8,11 @@ The identified actors and their actions are as follows:
 
 | Actor          | Actions |
 | -------------- | ------- |
-| Civilian       | - Registers on the platform<br />- Receives notifications when officer available for in-person or virtual connection<br />- Sends chat requests to officers<br />- Confirms connection when platform detects officer is within 10 feet<br />- Sends virtual handshake<br />- Chooses products in storefront for which they can redeem interaction points<br />| 
-| Police Officer | - Registers on the platform<br />- Receives chat requests from civilians<br />- Confirms connection when platform detects officer is within 10 feet<br />- Chooses charity to receive points earned for interactions<br />|
-| Charity        | - Registers on the platform<br />- Chooses products in storefront for which they can redeem interaction points<br />|
-| Business       | - Registers on the platform<br />- Creates storefront with electronic products (e.g., gift cards) and associated point values<br />|
-| Administrator  | - Views usage statistics (number of connections, points redeemed, etc.) aggregated by zip code and across platform<br />- Manage user accounts in case of technical problems or abuse<br />|
+| Civilian       | - Registers on the platform<br />- Receives notifications when officer available for in-person or virtual connection<br />- Sends chat requests to officers<br />- Confirms connection when platform detects officer is within 10 feet<br />- Sends virtual handshake<br />- Scans officer's QR code if they meet an officer who is not logged into platform<br />- Optionally shares connections on own social media account<br />- Chooses products in storefront for which they can redeem interaction points<br />- Receives QR code when redeeming points for discounts from local retailers without e-commerce capabilities<br />- Moves points to linked account in a business's reward program<br />- Optionally receives push notifications when near participating businesses<br />- Optionally receives notifications of events on community calendar<br />| 
+| Police Officer | - Registers on the platform with a valid police department e-mail address<br />- Receives chat requests from civilians<br />- Confirms connection when platform detects civilian is within 10 feet<br />- Sends virtual handshake<br />- Presents QR code for scanning if they encounter a civilian user while not logged into platform<br />- Optionally shares connections on own social media account<br />- Chooses charity to receive points earned for interactions<br />- Optionally earmarks individual to benefit from donation<br />- Adds events to community calendar<br />|
+| Charity        | - Registers on the platform<br />- Chooses products in storefront for which they can redeem interaction points<br />- Confirms eligibility of individual donation recipients (e.g., verifies that a kid participates in Big Brothers, Big Sisters program)<br />|
+| Business       | - Registers on the platform<br />- Creates storefront with electronic products (e.g., gift cards) and associated point values<br />- Uses Hey, Blue! API to link to its own rewards program<br />|
+| Administrator  | - Views usage statistics (number of connections, points redeemed, etc.) aggregated by zip code and across platform<br />- Manages user accounts in case of technical problems or abuse<br />|
 
 ## Architecturally Significant Scenarios
 
