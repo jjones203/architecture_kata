@@ -20,4 +20,4 @@ Workflow is one of our top 3 architecture characteristics, which pushed us to ad
 ### Cons
 - Lower scalability
 - Lower performance
-- lower fault tolerance
+- Lower fault tolerance
