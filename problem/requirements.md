@@ -23,13 +23,13 @@ We have prioritized the platform's capabilities: a minimum viable product must i
 
 ### Medium Term
 - Allow officers to earmark their donations for individuals confirmed as eligible by charities
-- Expand storefronts to include physical products
 - Recognize interactions that occur outside the platform using QR codes assigned to officers
 - Maintain community calendar to which officers can submit events they will attend
 - Notify users when they are near a participating business (subject to user opt-in)
 
 ### Long Term
 - Integrate with businesses' existing rewards programs
+- Expand storefronts to include physical products
 - Send automated reports about platform usage to local media outlets
 - Use external data sources (e.g., the FBI Crime Data API) in platform analytics
 - Solicit feedback from users on how any profits from the platform should be donated
