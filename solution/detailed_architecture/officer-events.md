@@ -5,6 +5,7 @@
 ![Officer Events](../../assets/detailed-officer-events.jpg)
 
 ## Description
+This event processor provides officers with the ability to upload upcoming events for users to find officers willing to connect.
 
 ## Architectural Characteristics
 - Availability

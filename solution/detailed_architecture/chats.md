@@ -5,6 +5,7 @@
 ![Chats](../../assets/detailed-chat.jpg)
 
 ## Description
+The chat event processor provides a temporary space for a civilian and a police officer to coordinate the logistics for their in-person interaction. In addition, it provides an opportunity to make the virtual handshakes more meaningful by being social and exchanging a few words.
 
 ## Architectural Characteristics
 - Availability
