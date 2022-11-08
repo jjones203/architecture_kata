@@ -1,7 +1,7 @@
 # Architecture Analysis
 
 ## Desired Architecture Characteristics
-Here we map technical requirements to associated architecture characteristics, which are ordered by importance. This analysis takes the following format:
+Here we map technical requirements to associated architecture characteristics, which are ordered by importance. This analysis (inspired by the [worksheet](https://www.developertoarchitect.com/downloads/architecture-characteristics-worksheet.pdf)) takes the following format:
 
 *Business requirement*
 
@@ -57,3 +57,5 @@ Here we map technical requirements to associated architecture characteristics, w
 We evaluated potential architecture styles in light of the analysis above. The architecture styles worksheet showed event-driven architectures exhibit several of the characteristics most important for the Hey, Blue! platform.
 
 ![architecture worksheet with the performance, scalability, and workflow characteristics and event-driven style selected](/assets/arch_worksheet_completed_crop.png)
+
+
