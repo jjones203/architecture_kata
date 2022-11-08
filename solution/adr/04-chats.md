@@ -7,11 +7,18 @@ Accepted
 Whether virtual or in-person, the requirements do not describe a way for a civilian and police officers to exchange niceties for a more meaningful interaction.
 
 ## Decision
-An internal and short lived chat window will be enabled when a civilian and a police officer agree to conduct an interaction. For a virtual handshake, it will allow to the two parties to exchange words to bring about a more meaningful and memorable interaction. For an in-person interaction, it will also allow the two parties to agree on a place to meet. It allows to keep the full interaction inside the Hey, Blue! platform for benefit and safety of both the civilian and police officer. The chat between these two user will only be temporary and disabled once an interaction has concluded. Records of the chat will be kept as required by local juridiction.
+An internal and short lived chat window will be enabled when a civilian and a police officer agree to interact:
+- For a virtual handshake, the two parties may exchange greetings. 
+- For an in-person interaction, the two parties can agree on a place to meet. The platform will not disclose real-time location information for security reasons. Furthermore, coordinating to meet at a mutually convenient location makes interactions more feasible in suburban and rural communities where neighborhoods are not walkable and distances may be great. 
+
+The full interaction will occur inside the Hey, Blue! platform for the safety of both the civilian and police officer. The chat between these two users will be temporary; it will be disabled after an interaction has concluded or a period of inactivity. Records of the chat will be kept as required by local jurisdiction.
 
 ## Consequences
 
 ### Pros
-- Ability to coordinate interaction plans between a civilian and a police officer
-- Add personal touch to virtual handshake
-- Optional
+- Ability to coordinate plans for in-person interaction between a civilian and a police officer
+- Option to add a personal touch to virtual handshake
+
+### Cons
+- Users must engage in chat to coordinate in-person interactions
+- Higher barriers to entry for users who are not literate in English or who are visually impaired
