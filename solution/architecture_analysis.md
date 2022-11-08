@@ -56,4 +56,4 @@ Here we map technical requirements to associated architecture characteristics, w
 
 We evaluated potential architecture styles in light of the analysis above. The architecture styles worksheet showed event-driven architectures exhibit several of the characteristics most important for the Hey, Blue! platform.
 
-![architecture worksheet with the performance, scalability, and workflow characteristics and event-driven style selected](/assets/arch_worksheet_completed.png)
+![architecture worksheet with the performance, scalability, and workflow characteristics and event-driven style selected](/assets/arch_worksheet_completed_crop.png)
