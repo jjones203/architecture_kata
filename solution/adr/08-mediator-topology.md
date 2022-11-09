@@ -4,10 +4,10 @@
 Accepted
 
 ## Context
-In the _Fundamentals of Software Architecture_ book, the authors Richards and Ford write about the two primary topologies within event-driven architecture. They mediator topology in particular is commonly used when a platform needs control over the workflow of event processes.
+In the _Fundamentals of Software Architecture_ book, the authors Richards and Ford write about the two primary topologies within event-driven architecture. The mediator topology in particular is commonly used when a platform needs control over the workflow of event processes.
 
 ## Decision
-Workflow is one of our top 3 architecture characteristics, which motivated us to adopt our solution and strategy to the mediator topology for an event-driven architecture.
+Workflow is one of our top 3 desired architecture characteristics, which motivated us to adopt the mediator topology for our event-driven architecture.
 
 ## Consequences
 
