@@ -20,7 +20,7 @@ O'Reilly Architecture Katas Entry
 - [Detailed Architecture](./solution/detailed_architecture/README.md)
 - [Architectural Decision Record's (ADRs)](./solution/adr/README.md)
 
-## Resources
+## Some Resources We Used
 
 - [Previous O'Reilly Software Architecture Kata Entries](https://github.com/tekiegirl/SoftwareArchitectureResources/blob/main/Resources/OReillyKata.md)
 - [Team PegasuZ Entry](https://github.com/z-katas/arch-katas-dcc)
