@@ -19,6 +19,8 @@ The identified actors and their actions are as follows:
 
 The following are the most architecturally significant scenarios/flows, derived from the Actors and Actions above, which will shape the architecture of the Hey, Blue! system.
 
+_Click on the diagrams to make them larger._
+
 ### Legend
 
 This legend defines all the symbols that are used throughout our diagrams.
