@@ -1,6 +1,7 @@
 # Actors, Actions and Significant Scenarios
 
-The following identifies the significant actors, actions and key scenarios that will inform the architecture of the Hey, Blue! application. The enumeration of important user stories is useful to gain a overall sense for what needs to be provided by the service. Each significant scenario also points to the related technical capabilities in the proposed architecture.
+To illustrate the needs which the architecture must satisfy, we outline the different types of actors who will use the platform and the actions each will perform. We show the steps involved in common scenarios for these actors in the diagrams that follow.
+
 
 ## Actors & Actions
 
