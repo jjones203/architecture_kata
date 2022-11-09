@@ -1,11 +1,11 @@
-# Police Officer Events Management
+# Community Calendar Management
 
 ## Diagram
 
 ![Officer Events](../../assets/detailed-officer-events.jpg)
 
 ## Description
-This event processor provides officers with the ability to upload upcoming events for users to find officers willing to connect.
+This event processor provides officers with the ability to upload upcoming events where users can find officers willing to connect.
 
 ## Architectural Characteristics
 - Availability
