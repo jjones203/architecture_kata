@@ -1,6 +1,7 @@
-# The Black Cat Manifestation
+# Hey, Blue! Architecture Proposal by the Black Cat Manifestation
+O'Reilly Architecture Katas Entry
 
-## Members
+## Team Members
 
 - Jessica Jones 🐈‍⬛
 - Sylvain Bernard 🐈‍⬛
