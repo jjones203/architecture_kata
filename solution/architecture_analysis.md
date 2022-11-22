@@ -17,7 +17,7 @@ Here we map technical requirements to associated architecture characteristics, w
 
   **(1) Availability** - The platform must allow users to connect with each other at any time of day or night. Frequent outages could discourage use of the platform and prevent Hey, Blue! from building a user base. We will aim for 99.9% uptime.
 
-  **(2) Responsiveness** - The platform must handle requests quickly enough to facilitate chats between users. We will aim for most typical user requests to take 0.1-0.2 milliseconds from the user initiating the request to the app responding to the request, with an outside limit of 1 second for more complex transactions. 
+  **(2) Responsiveness** - The platform must handle requests quickly enough to facilitate chats between users. We will aim for most typical user requests to take 0.1-0.2 seconds from the user initiating the request to the app responding to the request, with an outside limit of 1 second for more complex transactions. (See [Designing for Performance](https://designingforperformance.com/performance-is-ux/) for information on users' perception of responsiveness.)
 
   **(3) Workflow** - For safety and privacy reasons, the platform will only connect users after both parties accept the connection request, which must be initiated by the civilian. The platform must ensure requests and responses occur in the correct order.
 <br>
