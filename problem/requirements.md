@@ -42,5 +42,8 @@ As a non-profit, Hey, Blue! will not be subject to some privacy laws, such as th
 
 Many platform functions will generate data (e.g., location data, chat logs) which might reveal sensitive information about users. Hey, Blue! will seek to discard this information as quickly as possible after a short retention period that would allow administrators to investigate problems (e.g., to review chat logs from users accused of abusive behavior).
 
+### Security
+For its traffic, Hey, Blue! will use a Certificate Authority for its TLS certificate, e.g. [Let's Encrypt](https://letsencrypt.org). Its databases will be encrypted at rest with a robust hashing algorithm. Prior to deployment, the platform will perform a security checklist akin to [SANS Securing Web Application Technologies Checklist](https://www.sans.org/cloud-security/securing-web-application-technologies/), to cover all the security needs to protect its users' data.
+
 ### Officer Safety
 All civilian-officer interactions will be posted to Hey, Blue!'s social media. However, the post will include only the users' first names or nicknames, it will not include a photo unless both parties agree, and an automatic 15-minute delay will ensure officers' locations are not trackable via social media. When an officer is logged into the mobile app with location tracking enabled, the app will send an alert after 15 minutes of inactivity; if the officer does not click on a button confirming they are active, they will be automatically logged out.
