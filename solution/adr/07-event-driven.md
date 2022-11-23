@@ -6,6 +6,10 @@ Accepted
 ## Context
 In the O'Reilly report _Software Architecture Patterns_, the author Mark Richards writes that the event-driven architecture pattern is a popular distributed asynchronous architecture pattern used to produce highliy scalable applications.
 
+## Decision Drivers
+- Which architecture scores highly on the characteristics identified as important in our Architecture Analysis: availability, responsiveness, workflow, scalability, concurrency, and data integrity?
+- Given the short, medium, and long-term business requirements for Hey, Blue!, which architecture is suitable for both a minimum viable product and additional functionality we anticipate adding later?
+
 ## Decision
 We decided to adopt the event-driven architecture approach to future-proof the Hey, Blue! platform.  This architecture style will allow it to maintain responsiveness and fault-tolerance as it grows in popularity.
 
