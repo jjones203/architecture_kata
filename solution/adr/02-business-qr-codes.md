@@ -13,6 +13,9 @@ While some local businesses may not have an online presence (besides social medi
 ## Decision
 The Hey, Blue! platform focuses on increasing community engagement between police officers and civilian within a community. Creating an incentive for local businesses to participate in the program, without the barrier of having an online shopping presence, will benefit members of these same communities who also happen to be business owners instead of forcing users of the Hey, Blue! app to only redeem points to big name stores and businesses.
 
+## Considered Options
+The other option would be exclude these local businesses from the Hey, Blue! platform but we believe it would go against the spirit of what it is trying to accomplish.
+
 ## Consequences
 
 ### Pros

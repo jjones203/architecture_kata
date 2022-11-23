@@ -13,6 +13,9 @@ The requirements state a civilian and a police officer must have the ability to 
 ## Decision
 There will be instances when a police office does not want the Hey, Blue! platform to be actively tracking their location, but they may have ad hoc in-person interaction. Instead of having the police officer turn on their location to validate the proximity betweem them and the civilian, the civilian can just scan the officer's QR code and the backend will validate the interaction using that information instead.
 
+## Considered Options
+[Near-field communication](https://en.wikipedia.org/wiki/Near-field_communication) is a set of communication protocols that enables communication between two electronic devices over a distance of 4 cm or less. Even though it is prevalent, it is not a guaranteed feature especially in mid- to low-range smartphones. Relying on a camera lens for ad-hoc interactions is a safer alternative to allow these kind of interactions to the majority of the user base, if not all of it.
+
 ## Consequences
 
 ### Pros
