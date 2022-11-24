@@ -8,7 +8,7 @@ The requirements state a civilian and a police officer must have the ability to 
 
 ## Decision Drivers
 - How does the platform allow for ad-hoc interactions without the police officer being tracked?
-- How does the platform make these ad-hoc interactions seemless?
+- How does the platform make these ad-hoc interactions seamless?
 
 ## Decision
 There will be instances when a police office does not want the Hey, Blue! platform to be actively tracking their location, but they may have ad hoc in-person interaction. Instead of having the police officer turn on their location to validate the proximity betweem them and the civilian, the civilian can just scan the officer's QR code and the backend will validate the interaction using that information instead.
