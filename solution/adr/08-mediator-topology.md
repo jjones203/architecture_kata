@@ -13,7 +13,7 @@ In the _Fundamentals of Software Architecture_ book, the authors Richards and Fo
 For safety and privacy reasons, the Hey, Blue! platform will require certain events occur in a particular sequence: e.g., a civilian must initiate an interaction, then an officer must accept the chat request. The mediator topology better lends itself to such workflow orchestration.
 
 ## Considered Options
-The other option for an event-driven architecture is to use the broker topology. On its chapter on event-driven architecture style, the book _Fundamentals of Software_ states that "[t]he broker topology differs from the mediator topology in that there is no central event mediator." We believe this would further increase the complexity of implementing our proposed interaction workflow.
+The other option for an event-driven architecture is to use the broker topology. On its chapter on event-driven architecture style, the book _Fundamentals of Software_ states, "The broker topology differs from the mediator topology in that there is no central event mediator." We believe this would further increase the complexity of implementing our proposed interaction workflow.
 
 ## Consequences
 
