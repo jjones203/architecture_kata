@@ -14,7 +14,7 @@ In the O'Reilly report _Software Architecture Patterns_, the author Mark Richard
 We decided to adopt the event-driven architecture approach to future-proof the Hey, Blue! platform.  This architecture style will allow it to maintain responsiveness and fault-tolerance as it grows in popularity.
 
 ## Considered Options
-We initially considered the microservices and service-based architectures for their agility. But as we worked through the various characteristics that were important, based on the requirements, we decided to base our solution on an event-driven architecture. As an example, Hey, Blue! interactions are based on a specific protocol that these two architectures would not be adequate since they have a low rating for workflows.
+We initially considered the microservices and service-based architectures for their agility. But as we worked through the various characteristics that were important, based on the requirements, we decided to base our solution on an event-driven architecture. As an example, Hey, Blue! interactions must follow specific steps; these two architectures may not be adequate since they have a low rating for workflow.
 
 ## Consequences
 
