@@ -14,11 +14,11 @@ While some local businesses may not have an online presence (besides social medi
 The Hey, Blue! platform focuses on increasing community engagement between police officers and civilian within a community. Creating an incentive for local businesses to participate in the program, without the barrier of having an online shopping presence, will benefit members of these same communities who also happen to be business owners instead of forcing users of the Hey, Blue! app to only redeem points to big name stores and businesses.
 
 ## Considered Options
-The other option would be to exclude these local businesses from the Hey, Blue! platform but we believe it would go against the spirit of what it is trying to accomplish.
+The other option would be to exclude these local businesses from the Hey, Blue! platform but we believe it would go against the spirit of what it is trying to accomplish. Another alternative would be to issue printable gift certificates but that could be subject to fraud and abuse, and it would force the business to find a solution to track unique certificates.
 
 ## Consequences
 
 ### Pros
 - Expand reach of the redeem and rewards program to local businesses
-- Drive business to local business owners
-- Bring exposure to more diverse variety of goods to Hey, Blue! users
+- Drive customers to local business owners
+- Promote more diverse businesses to Hey, Blue! users
