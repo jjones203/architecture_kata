@@ -19,6 +19,9 @@ An internal and short lived chat window will be enabled when a civilian and a po
 
 The full interaction will occur inside the Hey, Blue! platform for the safety of both the civilian and police officer. The chat between these two users will be temporary; it will be disabled after an interaction has concluded or a period of inactivity. Records of the chat will be kept as required by local jurisdiction.
 
+## Considered Options
+Alternatively, the Hey, Blue! interface might simply display an officer's location to civilian users in the area. This would allow civilians to seek out the officer for interaction. However, this might be impractical in areas where officers patrol by car, and it does not ensure that the interactions only occur in locations where both parties feel safe. 
+
 ## Consequences
 
 ### Pros
