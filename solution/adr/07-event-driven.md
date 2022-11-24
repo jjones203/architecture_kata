@@ -4,7 +4,7 @@
 Accepted
 
 ## Context
-In the O'Reilly report _Software Architecture Patterns_, the author Mark Richards writes that the event-driven architecture pattern is a popular distributed asynchronous architecture pattern used to produce highliy scalable applications.
+In the O'Reilly report _Software Architecture Patterns_, the author Mark Richards writes that the event-driven architecture pattern is a popular distributed asynchronous architecture pattern used to produce highly scalable applications.
 
 ## Decision Drivers
 - Which architecture scores highly on the characteristics identified as important in our Architecture Analysis: availability, responsiveness, workflow, scalability, concurrency, and data integrity?
