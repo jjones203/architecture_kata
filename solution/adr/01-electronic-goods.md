@@ -13,6 +13,11 @@ One of the requirements for the platform is to allow businesses to create a stor
 ## Decision
 Providing storefronts on the Hey, Blue! platform puts the onus on the external businesses to provide a (or an additional) technical solution for their inventory and distribution of goods. Providing these entities with a simple application programming interface (API) and templates for listing gift cards and promo rebate codes removes the need to manage SKUs (stock-keeping units) for the businesses and Hey, Blue!'s technical team.
 
+## Considered Options
+The Hey, Blue! requirements imply users can order physical goods through the platform: "Businesses should have a catalog of items that they are offering and the point value assigned to each item available.... User applies points for product, i.e.: new shoes." In order to provide this service through Hey, Blue! directly, the platform would need to handle inventory, payment, shipping options, etc. We decided this seemed like an excessive investment relative to the feature's importance. Allowing users to redeem points for electronic rebates and gift cards still incentivizes interactions through rewards from participating businesses but with fewer logistical hurdles. 
+
+In future iterations, integration with an e-commerce service provider such as Shopify could allow users to purchase goods and services within the Hey, Blue! platform. However, this may discourage some businesses from participating in Hey, Blue! because they would likely need to subscribe to the e-commerce service.
+
 ## Consequences
 
 ### Pros
@@ -23,4 +28,4 @@ Providing storefronts on the Hey, Blue! platform puts the onus on the external b
 - Less choice for the user
 - Less engagement for the user to redeem their points
 
-_Note that the storefront can be expanded to meet the demand once adoption is more prevalent after the initial launch._
+
