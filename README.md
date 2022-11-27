@@ -18,7 +18,7 @@ O'Reilly Architecture Katas Entry
 - [Architecture Analysis](./solution/architecture_analysis.md)
 - [High-Level Architecture](./solution/high_level_architecture.md)
 - [Detailed Architecture](./solution/detailed_architecture/README.md)
-- [Architectural Decision Record's (ADRs)](./solution/adr/README.md)
+- [Architectural Decision Records (ADRs)](./solution/adr/README.md)
 
 ## Some Resources We Used
 
