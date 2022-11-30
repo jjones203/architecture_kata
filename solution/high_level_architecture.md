@@ -4,6 +4,19 @@ The high-level architecture brings together the [architecture analysis](./archit
 
 ![High-Level Architecture](../assets/high_level_architecture.jpg)
 
+Below are the three mediators, represented step-by-step for their respective workflows. Note that each mediator has the same color as in the high-level architecture diagram, along with the step numbers denoted in all diagrams for consistency.
+
+## Registration Mediator
+
+![Registration Mediator](../assets/registration_mediator.jpg)
+
+## Connection Mediator
+
+![Connection Mediator](../assets/connection_mediator.jpg)
+
+## Redeem Mediator
+
+![Redeem Mediator](../assets/redeem_mediator.jpg)
 
 ### ADR Links
 - [01 - Limiting Storefront to Electronic Goods and Online Rebates](./adr/01-electronic-goods.md)
